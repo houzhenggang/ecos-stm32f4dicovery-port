@@ -1,0 +1,11 @@
+/home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/lib/target.ld : \
+ /home/sontd/workspace/Sem7/RT/final/ecos/packages/hal/cortexm/arch/current/src/cortexm.ld \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/system.h \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/hal.h \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/hal_cortexm.h \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/hal_cortexm_stm32.h \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/hal_cortexm_stm32_stm32f4discovery.h \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/pkgconf/mlt_cortexm_stm32f4discovery_rom.ldi \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/cyg/infra/cyg_type.inc \
+ /home/sontd/workspace/Sem7/RT/final/ecos-tools-bin-110209.i386linux/ecos_install/include/cyg/hal/basetype.h
+
